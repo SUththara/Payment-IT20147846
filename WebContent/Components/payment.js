@@ -71,7 +71,7 @@ function validatePaymentForm()
 {
 	
 
-// payment_accountno
+// payment_accountno------------------------
 if ($("#Payment_AccountNO").val().trim() == "")
  {
  return "Insert Payment_AccountNO.";
